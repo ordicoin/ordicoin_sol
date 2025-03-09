@@ -16,3 +16,6 @@ Presale wallet:
 The currency we receive in SOL will be converted when we send out the token.
 Presale will close when more than $1,000,000 is accumulated, all funds that are sent after will be refunded.
 -
+
+info
+https://www.coingecko.com/en/coins/ordi
