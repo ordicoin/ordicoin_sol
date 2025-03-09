@@ -1,11 +1,11 @@
 # ordicoin_sol
 Our new launch on new chain
 
-Community40%(airdrop)0.4
+Community 40% (airdrop)
 
-Presale50%0.5
+Presale 50%
 
-Reserve10%0.1
+Reserve 10%
 
 Presale-
 
